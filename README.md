@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Nithya%20Waidyarathne&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00B4DB,100:0083B0&text=Nithya%20Waidyarathne&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nithya Waidyarathne</h1>
-
-<h3 align="center">
-Data Science Undergraduate @ SLIIT • Data Analyst Intern @ Noritake Lanka Porcelain
-</h3>
+<h1 align="center">Hi 👋 I'm Nithya Waidyarathne</h1>
 
 <p align="center">
-Passionate about Data Analytics • Artificial Intelligence • Machine Learning • Business Intelligence
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00B4DB&center=true&vCenter=true&width=750&lines=Data+Science+Undergraduate+%40+SLIIT;Data+Analyst+Intern+%40+Noritake+Porcelain+Lanka;Passionate+about+AI%2C+Machine+Learning+and+Analytics;Always+Learning+New+Technologies"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nithya5730&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
@@ -18,16 +22,9 @@ Passionate about Data Analytics • Artificial Intelligence • Machine Learning
 
 🎓 BSc (Hons) Information Technology (Data Science) Undergraduate at **SLIIT**
 
-📊 Currently working as a **Data Analyst Intern** at **Noritake Porcelain Lanka**
+📊 Data Analyst Intern at **Noritake Porcelain Lanka**
 
-🌱 Currently learning
-
-- Machine Learning
-- Generative AI
-- Business Intelligence
-- Data Engineering
-
-💡 Interested in
+💡 Passionate about
 
 - Data Analytics
 - Artificial Intelligence
@@ -35,72 +32,31 @@ Passionate about Data Analytics • Artificial Intelligence • Machine Learning
 - Business Intelligence
 - Full Stack Development
 
----
+🌱 Currently Learning
 
-# 🚀 Featured Projects
-
-### 🇱🇰 Serendib AI – Agentic Travel Copilot (National AI Hackathon)
-
-> AI-powered travel assistant for Sri Lanka using RAG, LangGraph, Gemini AI and ChromaDB with itinerary planning, budget optimization, transport guidance and disruption recovery.
-
-**Tech Stack**
-
-Python • FastAPI • LangGraph • ChromaDB • Gemini AI • React • Express • MongoDB
-
----
-
-### 🏫 Smart Campus Operations Hub
-
-> University resource management system supporting facility booking, maintenance requests, authentication, notifications and incident management.
-
-**Tech Stack**
-
-Spring Boot • React • MySQL • JWT
-
----
-
-### 🌿 Epic Green – Spice Management System
-
-> MERN application for inventory, plantation, supplier and order management with dashboards and reporting.
-
-**Tech Stack**
-
-MongoDB • Express • React • Node.js
-
----
-
-### 🅿️ Automated Parking System
-
-> Parking reservation system with automated check-in/check-out and payment calculation.
-
-**Tech Stack**
-
-PHP • MySQL • HTML • CSS
-
----
-
-### 🏫 Online School Management System
-
-> School management web application developed using Java web technologies.
-
-**Tech Stack**
-
-Java • JSP • Servlets • MySQL
+- Machine Learning
+- Generative AI
+- Data Engineering
+- Business Intelligence
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python,r,java,js,c,cpp,html,css"/>
+
 </p>
 
-### Frameworks
+### Frameworks & Databases
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,mongodb,mysql"/>
+
 </p>
 
 ### Data Analytics
@@ -109,69 +65,132 @@ Java • JSP • Servlets • MySQL
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-<img src="https://img.shields.io/badge/Data_Visualization-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-<img src="https://img.shields.io/badge/Data_Cleaning-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,idea,eclipse"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea"/>
+
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🇱🇰 Serendib AI — Agentic AI Travel Copilot
+
+🤖 National AI Hackathon Project
+
+> AI-powered travel assistant using RAG, LangGraph, Gemini AI, ChromaDB and Multi-Agent workflows.
+
+**Tech**
+
+Python • FastAPI • LangGraph • Gemini • ChromaDB • React • Express • MongoDB
+
+---
+
+### 🏫 Smart Campus Operations Hub
+
+> Centralized campus management platform for facility booking, maintenance requests, notifications and authentication.
+
+**Tech**
+
+Spring Boot • React • MySQL • JWT
+
+---
+
+### 🌿 Epic Green – Spice Management System
+
+> MERN application for plantation, supplier, inventory and order management.
+
+**Tech**
+
+MongoDB • Express • React • Node.js
+
+---
+
+### 🅿️ Automated Parking System
+
+> Web application for parking reservations with automated payment calculation.
+
+**Tech**
+
+PHP • MySQL • HTML • CSS
+
+---
+
+### 🏫 Online School Management System
+
+> Java web application developed using OOP concepts.
+
+**Tech**
+
+Java • JSP • Servlets
 
 ---
 
 # 🏅 Certifications
 
-- AI/ML Engineer – Stage 1 (SLIIT)
-- Career Essentials in Generative AI (Microsoft & LinkedIn)
-- AWS Technical Essentials
-- Python for Beginners (University of Moratuwa)
-- Power BI Dashboards for Beginners
-- Introduction to Artificial Intelligence
+✔ AI/ML Engineer – Stage 1 (SLIIT)
+
+✔ Career Essentials in Generative AI
+
+✔ AWS Technical Essentials
+
+✔ Python for Beginners – University of Moratuwa
+
+✔ Power BI Dashboards for Beginners
+
+✔ Introduction to Artificial Intelligence
 
 ---
 
-## 🏆 GitHub Stats
+# 📊 GitHub Summary
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nithya5730&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Nithya5730&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithya5730&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithya5730&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
----
 
-# 📈 Contribution Graph
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nithya5730&theme=tokyonight"/>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithya5730&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nithya5730&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🤝 Connect with Me
+# 🌐 Connect with Me
 
 <p align="center">
 
-<a href="www.linkedin.com/in/nithya-waidyarathne-758777385">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_LINK">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
 </a>
 
-<a href="https://www.kaggle.com/nithyawaidyarathne">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<a href="https://kaggle.com/YOUR_KAGGLE_USERNAME">
+
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+
 </a>
 
-<a href="mailto:waidyarathnen@email.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
 </a>
 
 </p>
@@ -180,6 +199,6 @@ Java • JSP • Servlets • MySQL
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ *"Transforming data into meaningful insights through AI, analytics, and innovation."*
 
 </p>

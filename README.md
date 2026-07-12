@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00B4DB&center=true&vCenter=true&width=750&lines=Data+Science+Undergraduate+%40+SLIIT;Data+Analyst+Intern+%40+Noritake+Porcelain+Lanka;Passionate+about+AI%2C+Machine+Learning+and+Analytics;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00B4DB&center=true&vCenter=true&width=750&lines=Data+Science+Undergraduate+%40+SLIIT;Data+Analyst+Intern+%40+Noritake+Lanka+Porcelain;Passionate+about+AI%2C+Machine+Learning+and+Analytics;Always+Learning+New+Technologies"/>
 
 </p>
 
@@ -22,7 +22,7 @@
 
 🎓 BSc (Hons) Information Technology (Data Science) Undergraduate at **SLIIT**
 
-📊 Data Analyst Intern at **Noritake Porcelain Lanka**
+📊 Data Analyst Intern at **Noritake Lanka Porcelain**
 
 💡 Passionate about
 
@@ -175,22 +175,16 @@ Java • JSP • Servlets
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://www.linkedin.com/in/nithya-waidyarathne-758777385" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://kaggle.com/YOUR_KAGGLE_USERNAME">
-
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
-
+<a href="https://www.kaggle.com/nithyawaidyarathne" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
+<a href="mailto:waidyarathnen@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>

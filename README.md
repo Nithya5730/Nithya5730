@@ -1,12 +1,3 @@
-<!-- Tech Animation -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-435467e9-6f4c-4df2-b2e4-1fb9bd8d8a37.gif" width="100%">
-</p>
-
-<!-- Animated Banner -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00B4DB,100:0083B0&text=Nithya%20Waidyarathne&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00B4DB,100:0083B0&text=Nithya%20Waidyarathne&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>

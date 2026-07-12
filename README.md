@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Nithya Waidyarathne</h1>
 
 <h3 align="center">
-Data Science Undergraduate @ SLIIT • Data Analyst Intern @ Noritake Porcelain Lanka
+Data Science Undergraduate @ SLIIT • Data Analyst Intern @ Noritake Lanka Porcelain
 </h3>
 
 <p align="center">
